@@ -14,6 +14,10 @@ TagManager:
   - ToggleAvatar2
   - ToggleAvatar3
   - ToggleAvatar4
+  - RoomLight
+  - Bullet
+  - SamplesInfoPanel
+  - Whiteboard
   layers:
   - Default
   - TransparentFX
