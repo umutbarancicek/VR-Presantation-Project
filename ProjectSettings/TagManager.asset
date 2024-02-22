@@ -28,7 +28,7 @@ TagManager:
   - Interactable
   - Teleport
   - CharacterController
-  - 
+  - Grabbable
   - 
   - 
   - 
