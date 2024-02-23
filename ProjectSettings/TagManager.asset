@@ -18,6 +18,7 @@ TagManager:
   - Bullet
   - SamplesInfoPanel
   - Whiteboard
+  - Light
   layers:
   - Default
   - TransparentFX
